@@ -23,7 +23,7 @@ Execute the program
 </head>
 <body>
 <center>
-<img src="/static/images/logo.png" height="100" width="540">
+<img src="/static/img/logo.jpg" height="100" width="540">
 </center>
 <br>
 <table align="center" width="540" cellspacing="2" cellpadding="4" border="5" bgcolor="cyan">
